@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "3446895a-203c-446d-8fe7-80e43cf31884",
+  "content-length": "156",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a family posing for a picture",
+    "confidence": 0.7596102356910706
+  },
+  "metadata": {
+    "width": 436,
+    "height": 295
+  }
+}
