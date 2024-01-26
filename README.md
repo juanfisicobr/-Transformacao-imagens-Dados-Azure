@@ -5,3 +5,5 @@
 - Detectar objetos comuns em imagens
     - imagen2
     - imagem3 (não detectou nada)
+- Extrair texto de imagens
+    - imagen4
