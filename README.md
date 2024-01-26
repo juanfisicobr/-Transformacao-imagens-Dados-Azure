@@ -7,3 +7,5 @@
     - imagem3 (não detectou nada)
 - Extrair texto de imagens
     - imagen4
+- Detectar rostos em uma imagem
+    - imagen5
