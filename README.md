@@ -1,4 +1,4 @@
-# Transformacao-imagens-Dados-Azure
+# Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
 - Adicionar legendas densas às imagens
     - imagen1
